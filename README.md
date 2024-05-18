@@ -17,5 +17,6 @@ How to Use:
 
 Technologies Used:
 
-1) CSS
-2) JavaScript
+1) HTML
+2) CSS
+3) JavaScript
